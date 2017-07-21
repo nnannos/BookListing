@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookListing</string>
+
+    <!--Help text for search-->
+    <string name="info">Give book title or book writer to search and press search icon</string>
+
+
+    <!-- Title text for the empty view -->
+    <string name="empty_view">No books to show...</string>
+
+
+
+</resources>
